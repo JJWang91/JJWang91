@@ -1,7 +1,3 @@
-## Hi there 👋
-
-JJ
-
 # JJWang91
 
 FRONTEND DEVELOPER
